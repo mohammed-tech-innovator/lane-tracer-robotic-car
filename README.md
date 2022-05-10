@@ -14,3 +14,6 @@ A total of 11137 labeled images were collected , the dimentions of the image are
 # The model :
 
 We used torchvision resnet18 model with pretraind weights , then we modefied the lengh of the output form 1000 to 4 , we devided the collected data from the trace into training (80%) and testing (20%), the model was trained using adam optimizer with learining rate of 0.001 and crossentropy loss funtion with weights since the classes where not palanced.
+
+# The data :
+https://drive.google.com/file/d/19JuQwtMUgZVSgv0RdXGyCOiej4GEcLxZ/view?usp=sharing
