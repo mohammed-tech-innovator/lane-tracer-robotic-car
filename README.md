@@ -17,3 +17,6 @@ We used torchvision resnet18 model with pretraind weights , then we modefied the
 
 # The data :
 https://drive.google.com/file/d/19JuQwtMUgZVSgv0RdXGyCOiej4GEcLxZ/view?usp=sharing
+
+# The acual results :
+https://www.youtube.com/watch?v=qhr-C7h5alE&t=70s
