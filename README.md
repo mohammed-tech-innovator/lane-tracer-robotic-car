@@ -1,6 +1,6 @@
 # Robotic Car Project
 
-This project showcases the Raspberry Pi-based robotic car that I built. It was featured in a report by Al-Arabi TV network and won the best graduation project award. It achieved the highest mark in the 85-year history of my college's engineering program.
+This project highlights the Raspberry Pi-based robotic car I developed as part of a larger initiative. The entire project was featured in a report by Al-Arabi TV network and won the best graduation project award.
 
 # Lane Tracing Robotic Car :
 
