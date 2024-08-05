@@ -5,8 +5,10 @@ The task of lane tracing includes determining the steering angle and the speed o
 # The car :
 
 In order to proof the concept we constructed a small RC robotic car, in the heart of it the raspberry pi 4 in which all the control is performed,The raspberry pi receives input from the pi camera only, the distance between the camera lens and the floor is 16 cm , the angle of the camera is 45 degrees , the robot power comes from a 2000mAh power bank, the raspberry pi is connected with L298N (dc motor driver) witch directly controls the dc motors, the car itself has 4 DC motors the two motors in each side are connected to one channel at the L298N driver, that is considered as differential steering . 
-![the car from the front (1)](https://github.com/user-attachments/assets/31c3104e-09cd-459c-a700-184081e3a018)
-![the car from the side](https://github.com/user-attachments/assets/e7298a66-30e7-4b96-9f62-3c98b5a1744a)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/31c3104e-09cd-459c-a700-184081e3a018" alt="the car from the front (1)" width="300"/>
+  <img src="https://github.com/user-attachments/assets/e7298a66-30e7-4b96-9f62-3c98b5a1744a" alt="the car from the side" width="300"/>
+</p>
 
 # The trace :
 
